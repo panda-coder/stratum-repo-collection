@@ -4,6 +4,7 @@
 - [StratumV2 Libs](https://github.com/stratum-mining/stratum)
 - [sv2-spec](https://github.com/stratum-mining/sv2-spec)
 - [sv2-tp](https://github.com/stratum-mining/sv2-tp)
+- [sv2-apps](https://github.com/stratum-mining/sv2-apps/)
 
 
 ### Verificar
